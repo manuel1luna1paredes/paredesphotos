@@ -1,6 +1,32 @@
+/*//////////////////////////////////////////////////////////*/
+/*///////////////////// Page Color Map /////////////////////*/
+/*//////////////////////////////////////////////////////////*/
+
+/*
+////// Logo Colors //////
+Gold: #d8ae5e
+Black: 
+White: #ffffff
+Grey: #39393d
+/////////////////////////
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
 /* Page Body Format */
 body {
-    background-color : black;
+    background-color : #39393d;
 }
 
 /* Header 1 Format */
@@ -31,14 +57,14 @@ p {
 /* Header Block Settings */
 .header {
   overflow: hidden;
-  background-color: grey;
+  background-color: black;
   padding: 20px 10px;
 }
 
 /* Header Link Settings */
 .header a {
   float: left;
-  color: black;
+  color: white;
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -51,7 +77,7 @@ p {
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
-  color: darkgoldenrod
+  color: #d8ae5e
 }
 
 /* Mouse-Over Alteration */
