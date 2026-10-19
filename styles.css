@@ -82,13 +82,13 @@ p {
 
 /* Mouse-Over Alteration */
 .header a:hover {
-  background-color: #ddd;
+  background-color: #39393d;
   color: black;
 }
 
 /* Style the active/current link*/
 .header a.active {
-  background-color: dodgerblue;
+  background-color: #d8ae5e;
   color: white;
 }
 
